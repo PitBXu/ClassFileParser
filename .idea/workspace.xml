@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/workspace/project/common" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/workspace/project/financial.demo_multi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../fund-hub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../funds_quota" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../funds_quota/java/fund_quota_manage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../source/funds_quota" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fund_fee_rate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fund_operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fund_route" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../funds_match" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../funds_raise" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../repay_plan_calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../revoloan_credit" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
